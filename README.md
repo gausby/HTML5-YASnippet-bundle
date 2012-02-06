@@ -19,8 +19,6 @@ I haven't done snippets for the following elements:
   - object-element
   - output-element
   - progress-element
-  - time-element
-
 
 # --
 README$0
