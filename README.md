@@ -13,7 +13,6 @@ I haven't done snippets for the following elements:
   - audio-element
   - video-, source- and track-element
   - keygen-element
-  - link-element
   - meter-element
   - object-element
   - output-element
