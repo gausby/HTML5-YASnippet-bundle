@@ -12,7 +12,6 @@ I haven't done snippets for the following elements:
 
   - audio-element
   - video-, source- and track-element
-  - embed-element
   - keygen-element
   - link-element
   - meter-element
