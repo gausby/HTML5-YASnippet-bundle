@@ -1,0 +1,4 @@
+# -*- mode: snippet -*-
+# name: keygen
+# --
+<keygen name="$1" challenge="$2" keytype="${3:$$(yas/choose-value '("RSA" "DSA" "EC"))}"${4: keyparams="$5"} />

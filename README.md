@@ -10,7 +10,6 @@ you don't agree on my style.
 
 I haven't done snippets for the following elements:
 
-  - keygen-element
   - meter-element
   - object-element
   - output-element
