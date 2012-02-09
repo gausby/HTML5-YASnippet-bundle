@@ -10,7 +10,6 @@ you don't agree on my style.
 
 I haven't done snippets for the following elements:
 
-  - object-element
   - output-element
 
 # --
