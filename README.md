@@ -8,9 +8,8 @@ you don't agree on my style.
 
 ## Todo
 
-I haven't done snippets for the following elements:
-
-  - output-element
+  * Write some documentation.
+  * Write a todo-list.
 
 # --
 README$0
