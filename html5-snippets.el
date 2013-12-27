@@ -46,4 +46,4 @@
 (eval-after-load "yasnippet"
   '(html5-snippets-initialize))
 
-(provide 'buster-snippets)
+(provide 'html5-snippets)

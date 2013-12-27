@@ -9,7 +9,13 @@ The structure of this package is taken from [Magnar Sveen](https://github.com/ma
 
 ## Install
 
-@todo
+Clone the project and add the folder to the emacs load path.
+
+    (add-to-list 'load-path "/path/to/html5-snippets")
+    ;; some time after yasnippet has been loaded execute this
+    (require 'html5-snippets)
+
+The snippets should now expand in both html-mode and web-mode.
 
 
 ## Todo
